@@ -1,4 +1,4 @@
-package conIDP;
+package Roca.conIDP;
 public class ImpresoraInyeccionTinta implements Imprimible {
 
     @Override

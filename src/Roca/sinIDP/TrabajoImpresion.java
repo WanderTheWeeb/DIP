@@ -1,4 +1,4 @@
-package sinIDP;
+package Roca.sinIDP;
 
 public class TrabajoImpresion {
     private ImpresoraLaser impresoraLaser;

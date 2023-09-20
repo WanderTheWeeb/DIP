@@ -1,4 +1,4 @@
-package conIDP;
+package Roca.conIDP;
 public class TrabajoImpresion {
     private Imprimible impresora;
     public TrabajoImpresion(Imprimible impresora){

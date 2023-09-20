@@ -1,7 +1,4 @@
-package sinIDP;
-
-import sinIDP.ImpresoraLaser;
-import sinIDP.TrabajoImpresion;
+package Roca.sinIDP;
 
 public class Main {
     public static void main(String[] args) {

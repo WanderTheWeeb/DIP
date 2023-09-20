@@ -1,4 +1,4 @@
-package conIDP;
+package Roca.conIDP;
 public interface Imprimible {
     void imprimir();
 }

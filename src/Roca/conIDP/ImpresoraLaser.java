@@ -1,4 +1,4 @@
-package conIDP;
+package Roca.conIDP;
 public class ImpresoraLaser implements Imprimible{
     @Override
     public void imprimir() {
